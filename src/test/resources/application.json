@@ -1,0 +1,14 @@
+[
+  {
+    "name": "hand",
+    "className": "com.github.woodylic.ioc.entity.Hand"
+  },
+  {
+    "name": "mouth",
+    "className": "com.github.woodylic.ioc.entity.Mouth"
+  },
+  {
+    "name": "robot",
+    "className": "com.github.woodylic.ioc.entity.Robot"
+  }
+]
